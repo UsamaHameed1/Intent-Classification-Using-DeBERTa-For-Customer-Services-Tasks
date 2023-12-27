@@ -8,7 +8,7 @@ The **intent classification** problem in NLP involves predicting the intention o
 
 ## Goal
 
-Baed on the input of the customer, our model can link predict the intent class
+Based on the input of the customer, our model can link predict the intent class
 
 ## Information About Dataset
 
